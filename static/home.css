@@ -1,0 +1,34 @@
+body {
+    font-family: 'Montserrat', 'sans-serif';
+    background-color: rgb(185, 226, 253);
+}
+
+h2 {
+    font-size: 30px;
+    background-color: rgb(217, 242, 252);
+    text-align: center;
+}
+
+.weatherText {
+    font-size: 24px;
+}
+
+#weatherForm {
+    padding: 20px;
+}
+
+#weatherSubmit {
+    color: white;
+    background-color: #7292fa;
+    padding: 5px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: none;
+}
+
+#weatherSubmit:hover {
+    cursor: pointer;
+    color: #7292fa;
+    background-color: white;
+    border: none;
+}
